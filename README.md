@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on Houdini TD 
 - 🌱 I’m currently learning Python and Houdini
-- 💬 Ask me about ...
 - 📫 How to reach me: gabriel.aleluia@hotmail.com
 - 🤓: Always learning new things
-- ⚡ I love `FX` `Video Games,` `Films` and `Skydiving`
+- ⚡ I love `FX` `New technologies` `Video Games,` `Films` and `Skydiving`
