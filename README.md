@@ -19,7 +19,6 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Houdini-%23E34F26?logo=houdini&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Maya-%23E34F26?logo=autodesk&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Adobe-%23E34F26?logo=unrealengine&logoColor=white&style=for-the-badge" />
   </p>
   <br/>
   <p align="center">
